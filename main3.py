@@ -3,9 +3,9 @@ from discord.ext import commands
 import asyncio
 import os
 import datetime  # Для создания меток времени в транскрипте
+import r
 from dotenv import load_dotenv
 load_dotenv()
-import re
 
 def sanitize_filename(filename):
     """Удаляет или заменяет недопустимые символы в имени файла."""
