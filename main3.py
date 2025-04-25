@@ -3,7 +3,7 @@ from discord.ext import commands
 import asyncio
 import os
 import datetime  # Для создания меток времени в транскрипте
-import r
+import re
 from dotenv import load_dotenv
 load_dotenv()
 
