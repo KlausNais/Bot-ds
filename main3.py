@@ -172,4 +172,4 @@ async def close_ticket(channel, user, reason=None):
 
 # 4. Запуск бота
 
-bot.run('MTM1ODEzNzYyMDk0MDQ1NjA0Ng.G-mjdC.Kl_lgtIL323-dHGVF_fXU-bDY7A_E85Mr3zxl0')
+bot.run('MTM1ODEzNzYyMDk0MDQ1NjA0Ng.GtVlzf.dOxuzKErd7OVa4PDjLOFxMPvzzORqtOZMGtTIQ')
